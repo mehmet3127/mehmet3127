@@ -21,7 +21,6 @@
 
 [vscode]: https://code.visualstudio.com/
 [java]: https://www.java.com/
-[lambda]: 
 [selenium]: https://www.selenium.dev/
 [postgresql]: https://www.postgresql.org/
 [sql]: https://www.w3schools.com/sql/
