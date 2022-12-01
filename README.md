@@ -2,7 +2,7 @@
  
 <h2>I'm Software Test Specialist</h2>
 
-<h3>About me 🍀 </h3> 
+<h3>About me 🪪 </h3> 
 <p></p>
 
 <br>
@@ -21,6 +21,7 @@
 
 [vscode]: https://code.visualstudio.com/
 [java]: https://www.java.com/
+[lambda]: 
 [selenium]: https://www.selenium.dev/
 [postgresql]: https://www.postgresql.org/
 [sql]: https://www.w3schools.com/sql/
